@@ -1,13 +1,12 @@
-<!--
+
 ![
-](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) -->
+](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 ## Hi there 👋, my name is Raj Milton
 #### A passionate full-stack developer from India
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 Crafting code with precision and passion, engineering elegant solutions. Embracing challenges as opportunities, thriving in the world of programming. Dedicated to excellence, delivering results that exceed expectations. Your partner in digital innovation.
-
-#### Skills: Java FullStack / Python / C++ / HTML5 / CSS / JavaScript / SQL / Bootstrap / React JS
 
 🔭 I’m currently working on multiple freelance projects<br>👯 I’m looking to collaborate on innovative web development projects<br>🤝 I’m looking for help with advanced Java Fullstack and PHP challenges<br>🌱 I’m currently learning advanced React and Node.js<br>💬 Ask me about Java, PHP, WordPress, and graphic design with Photoshop<br>📫 How to reach me: rajmilton55555@gmail.com<br>⚡ Fun fact: I am funny
 
