@@ -6,7 +6,13 @@
 #### A passionate full-stack developer from India
 
 
- 🔭 I’m currently working on **Freelance Projects**<br>🌱 I’m currently learning **DSA**<br>👯 I’m looking to collaborate on **ML/AI**<br>💬 Ask me about Java, PHP, WordPress, and graphic design with Photoshop<br>📫 How to reach me: rajmilton55555@gmail.com<br>😄 Pronouns: **Techie**<br>⚡ Fun fact **I know Japanese.**
+ - 🔭 I’m currently working on **Freelance Projects**
+ - 🌱 I’m currently learning **DSA**
+ - 👯 I’m looking to collaborate on **ML/AI**
+ - 💬 Ask me about Java, PHP, WordPress, and graphic design with Photoshop
+ - 📫 How to reach me: rajmilton55555@gmail.com
+ - 😄 Pronouns: **Techie**
+ - ⚡ Fun fact **I know Japanese.**
 
 
 ### 🌐 Socials
