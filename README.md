@@ -4,7 +4,7 @@
 
 ## Hi there 👋, my name is Raj Milton
 #### A passionate full-stack developer from India
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Crafting code with precision and passion, engineering elegant solutions. Embracing challenges as opportunities, thriving in the world of programming. Dedicated to excellence, delivering results that exceed expectations. Your partner in digital innovation.
 
