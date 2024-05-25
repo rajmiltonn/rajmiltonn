@@ -72,9 +72,10 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rajmiltonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api?username=rajmiltonn&theme=dark&show_icons=true&&hide=issues,contribs)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajmiltonn&theme=dark&hide_border=false)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmiltonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmiltonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> <br/>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=rajmiltonn&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajmiltonn&limit=5&theme=dark&combine_all_yearly_contributions=true)
